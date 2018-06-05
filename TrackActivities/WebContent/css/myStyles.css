@@ -1,0 +1,65 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	color: black;
+	background-color: #FFFAF0 /*FLoralWhite color*/
+}
+
+h1.header1 {
+	color: navy;
+	background-color: #FFFAF0; /*FLoralWhite color*/
+	font-family: sans-serif;
+	font-size: x-large;
+	richness: inherit;
+	background: teal;
+	background-image: inherit;
+	color: white;
+}
+
+p {
+	border: 1px solid powderblue;
+	margin: 50px;
+	padding: 30px;
+	color: red;
+	font-family: courier;
+	font-size: 160%;
+	border-color: maroon;
+}
+
+footer {
+	background-color: #FFFAF0
+}
+
+LABEL.label1 {
+	font-size: medium;
+	font-weight: 500;
+	font-family: sans-serif;
+	color: navy
+}
+
+text {
+	
+}
+
+div.footerDiv {
+	background-color: teal;
+	background-position: bottom;
+	content: normal;
+}
+
+label.footerLabel {
+	color: white;
+	font: bold;
+	font-size: larger;
+}
+
+#button {
+	border: medium;
+	margin: ex;
+	background-color: maroon;
+	font-weight: 300;
+}

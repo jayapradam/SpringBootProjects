@@ -1,0 +1,9 @@
+io\example\springbootstarter\controller\course\CourseService.class
+io\example\springbootstarter\controller\topic\Topic.class
+io\example\springbootstarter\SpringBootDataApplication.class
+io\example\springbootstarter\controller\course\Course.class
+io\example\springbootstarter\controller\course\CourseController.class
+io\example\springbootstarter\controller\course\CourseRepository.class
+io\example\springbootstarter\controller\topic\TopicRepository.class
+io\example\springbootstarter\controller\topic\TopicController.class
+io\example\springbootstarter\controller\topic\TopicService.class
